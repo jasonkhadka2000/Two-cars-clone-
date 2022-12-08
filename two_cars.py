@@ -12,7 +12,7 @@ green=(0,255,0)
 x=pygame.init()
 pygame.mixer.init()
 
-screen_x=500
+screen_x=700
 screen_y=500
 m1=int(screen_x/4)
 m2=int(screen_x/2)
